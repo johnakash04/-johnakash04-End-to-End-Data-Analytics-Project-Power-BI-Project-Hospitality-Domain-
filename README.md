@@ -1,16 +1,18 @@
 AtliQ Grands Data Intelligence Project
-Overview
-AtliQ Grands is a well-established chain of five-star hotels across India, with a 20-year presence in the hospitality industry. However, due to strategic moves by competitors and ineffective decision-making, the company has been losing market share and revenue in the luxury/business hotels category. To address these challenges, AtliQ Grands has decided to leverage Business and Data Intelligence to regain its market share and revenue. Without an in-house data analytics team, they have hired a third-party service provider to analyze their historical data and provide actionable insights.
 
-Objective
-The primary goal of this project is to create metrics, design a dashboard, and generate insights to help AtliQ Grands make informed business decisions. As a data analyst, you are tasked with the following:
+Overview
+
+AtliQ Grands is a renowned chain of five-star hotels across India, boasting a 20-year legacy in the hospitality industry. Recently, due to strategic moves by competitors and ineffective decision-making, the company has experienced a decline in market share and revenue in the luxury/business hotels category. To counter this, AtliQ Grands decided to implement Business and Data Intelligence strategies. Lacking an in-house data analytics team, they engaged a third-party service provider to analyze their historical data and deliver actionable insights.
+
+Project Objectives
+The primary objectives of this project were:
 
 Create the metrics according to the provided metric list.
 Design a dashboard based on the mock-up provided by stakeholders.
-Generate additional relevant insights not covered in the metric list or mock-up dashboard.
+Generate additional relevant insights beyond the metric list and mock-up dashboard.
 Repository Structure
-The repository is structured as follows:
 
+This repository is organized as follows:
 
 AtliQ-Grands-Data-Intelligence-Project/
 ├── data/
@@ -27,8 +29,9 @@ AtliQ-Grands-Data-Intelligence-Project/
 │   └── final_report.pdf
 ├── README.md
 └── requirements.txt
+
 Getting Started
-To get started with the project, follow these steps:
+To explore and understand the project, follow these steps:
 
 Prerequisites
 Python 3.8 or higher
@@ -37,17 +40,15 @@ Required libraries (listed in requirements.txt)
 Installation
 Clone the repository:
 
-sh
-Copy code
 git clone https://github.com/your-username/AtliQ-Grands-Data-Intelligence-Project.git
 cd AtliQ-Grands-Data-Intelligence-Project
+
 Install the required libraries:
 
-sh
-Copy code
 pip install -r requirements.txt
+
 Data Preparation
-Place the historical data files in the data/ directory.
+The historical data files are available in the data/ directory.
 Run the data_preprocessing.ipynb notebook to clean and preprocess the data.
 Metric Calculation
 Open the metric_calculation.ipynb notebook.
@@ -62,7 +63,7 @@ Reports
 The final report, including all metrics, dashboard designs, and additional insights, is available in the reports/ directory as final_report.pdf.
 
 Conclusion
-By following this repository, you will be able to create valuable metrics, design an insightful dashboard, and generate actionable insights to help AtliQ Grands regain its market share and revenue in the luxury/business hotels category.
+This project successfully created valuable metrics, designed an insightful dashboard, and generated actionable insights to assist AtliQ Grands in regaining its market share and revenue in the luxury/business hotels category.
 
 Contributions
 Contributions to the project are welcome. Feel free to fork the repository and create pull requests for any enhancements or bug fixes.
@@ -75,4 +76,3 @@ For any queries or further information, please contact:
 
 Name: Akash John 
 Email: Akashjohn5288@gmail.com
-
