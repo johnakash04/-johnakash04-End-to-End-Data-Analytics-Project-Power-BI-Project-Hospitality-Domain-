@@ -1,3 +1,10 @@
+
+![Screenshot (121)](https://github.com/user-attachments/assets/dcdb2ea4-983a-46a2-bcd3-c91f29865d17)
+
+
+
+
+
 AtliQ Grands Data Intelligence Project
 
 Overview
